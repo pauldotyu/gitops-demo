@@ -3,12 +3,12 @@ entries:
   sample-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-16T20:55:31.112555131Z"
+    created: "2024-07-16T20:56:56.968181669Z"
     description: A Helm chart for Kubernetes
-    digest: 8ab65eab37a20b1de8975a901716b669c3e1e89a1989632d7b07c8ecf365160e
+    digest: 5feb64d4cfb0389e9213331357c493ad72f5689ac69d15249aac52eb662df08f
     name: sample-app
     type: application
     urls:
     - https://pauldotyu.github.io/gitops-demo/sample-app-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-16T20:55:31.112233201Z"
+generated: "2024-07-16T20:56:56.967463247Z"
